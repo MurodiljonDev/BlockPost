@@ -1,0 +1,9 @@
+@import "./scss/reset";
+@import "./scss/font";
+@import "./scss/variables";
+
+body {
+    font-family: var(--poppins);
+    // background-color: rgb(103, 92, 92)
+}
+
